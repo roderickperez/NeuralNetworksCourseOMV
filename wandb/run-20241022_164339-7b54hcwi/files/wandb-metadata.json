@@ -1,0 +1,31 @@
+{
+  "os":  "Linux-6.5.0-1025-azure-x86_64-with-glibc2.31",
+  "python":  "3.12.1",
+  "startedAt":  "2024-10-22T16:43:39.863541Z",
+  "program":  "/workspaces/NeuralNetworksCourseOMV/6_NeuralNetwork_PyTorch.ipynb",
+  "git":  {
+    "remote":  "https://github.com/roderickperez/NeuralNetworksCourseOMV",
+    "commit":  "7eaa0c660490dbce33580e01e6b3a96efb72edc6"
+  },
+  "email":  "roderickperezaltamar@gmail.com",
+  "root":  "/workspaces/NeuralNetworksCourseOMV",
+  "host":  "codespaces-a9ae8c",
+  "username":  "codespace",
+  "executable":  "/home/codespace/.python/current/bin/python3",
+  "codePathLocal":  "6_NeuralNetwork_PyTorch.ipynb",
+  "cpu_count":  1,
+  "cpu_count_logical":  2,
+  "disk":  {
+    "/":  {
+      "total":  "33636024320",
+      "used":  "14815137792"
+    }
+  },
+  "memory":  {
+    "total":  "8313704448"
+  },
+  "cpu":  {
+    "count":  1,
+    "countLogical":  2
+  }
+}
